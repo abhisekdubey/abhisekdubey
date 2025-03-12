@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-# 💫 About Me:I’m passionate about building tech that connects people and solves real problems. As a Software Engineer, I specialize in crafting responsive frontends with React.js, Next.js, and JavaScript, backed by Node.js, Express.js, and SQL/NoSQL. My goal? To create a project that millions use—tech that’s intuitive, impactful, and scales.
+# 💫 About Me:
+I’m passionate about building tech that connects people and solves real problems. As a Software Engineer, I specialize in crafting responsive frontends with React.js, Next.js, and JavaScript, backed by Node.js, Express.js, and SQL/NoSQL. My goal? To create a project that millions use—tech that’s intuitive, impactful, and scales.
 
 At a dynamic tech company, I’ve tackled diverse challenges—from an e-commerce platform where I owned the frontend, built backend features for payment gateways and an admin dashboard, and added cascading filters, multiuser roles, and Chart.js visualizations, video-based connection platforms to streaming services, industry tools, and real estate systems. Currently, I’m shaping a MERN-stack app, designing UIs and APIs that bring ideas to life. Each line of code I write is a step toward solving problems and connecting users.
 
